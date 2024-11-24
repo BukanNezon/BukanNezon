@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently intern on **Solusi Data Madani**
 
-- 🌱 I’m currently learning **Laravel Livewire**
+- 🌱 I’m currently learning **UI & UX**
 
 - 💬 Ask me about **Movie , Music**
 
